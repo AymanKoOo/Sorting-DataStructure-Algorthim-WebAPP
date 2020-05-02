@@ -1,4 +1,4 @@
-## #UnderDevelopment# A Web app Animates all Sorting techniques , DataStructure , Algorthims
+## #UnderDevelopment# A Web app Animates all Sorting techniques , DataStructure , Algorthims (developed using vanilla javascript)
 ##Progess Now -> Insertion sort , Bubble Sort , Selection Sort
 ##DataStructure -> Soon
 ##Algorthims -> Soon
